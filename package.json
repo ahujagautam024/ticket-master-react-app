@@ -11,6 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "homepage": "https://ahujagautam024.github.io/ticket-master-react-app",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
