@@ -4,7 +4,7 @@ import "./App.css";
 
 function Navigation() {
   const navItems = [
-    { label: "Home", path: "/ticket-master-react-app", exact: true },
+    { label: "Home", path: "/", exact: true },
     { label: "Events", path: "/events" },
     { label: "Attractions", path: "/attractions" },
     { label: "Venues", path: "/venues" },

@@ -16,7 +16,7 @@ function App() {
       <div>
         <Navigation />
         <Routes>
-          <Route path="/ticket-master-react-app" element={<Landing />} />
+          <Route path="/" element={<Landing />} />
           <Route path="/events" element={<Navigate to="/events/page/0" />} />
           <Route path="/events/page/:page" element={<Events />} />
           <Route path="/events/:id" element={<EventDetails />} />
